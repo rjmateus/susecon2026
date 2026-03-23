@@ -12,7 +12,7 @@ Instructions
 
 Run the following command in the same directory as the Dockerfile and index.html.
 
-podman build -t susecon2026-web-app .
+podman build -t susecon2026-web-app:v1.0 .
 
 
 2. Run the Container
