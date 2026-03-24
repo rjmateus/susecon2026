@@ -7,7 +7,7 @@ fileserver_backend:
   - git
 
 gitfs_remotes:
-  - https://github.com/rjmateus/hackweek_2025.git:
+  - https://github.com/rjmateus/susecon2026.git:
     - root: salt/states
     - base: main
 ```
